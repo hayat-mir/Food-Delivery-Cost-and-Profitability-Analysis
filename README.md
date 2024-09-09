@@ -30,9 +30,10 @@ Payment Processing Fee: The fee for processing the payment.
 Discount Amount: The discount provided on the order.
 
 #The histogram shows a wide distribution of profit per order, with a noticeable number of orders resulting in a loss (profits below 0). The red dashed line indicates the average profit, which is in the negative territory, highlighting the overall loss-making situation.
-
+https://github.com/user-attachments/assets/299283e2-661f-4077-9f50-046e5c8c02b1
 #The pie chart illustrates the breakdown of total costs into delivery fees, payment processing fees, and discount amounts. Discounts constitute a significant portion of the costs, suggesting that promotional strategies might be heavily impacting overall profitability.
-
+https://github.com/user-attachments/assets/38e618af-c1b4-4e0a-8741-ffa820de8ff8
 #The bar chart compares total revenue, total costs, and total profit. It visually represents the gap between revenue and costs, clearly showing that the costs surpass the revenue, leading to a total loss.
-
+https://github.com/user-attachments/assets/e583f641-f29a-4ee2-ad09-b727cd7dcbe3
 #The visualization compares the distribution of profitability per order using actual discounts and commissions versus the simulated scenario with recommended discounts (6%) and commissions (30%).
+https://github.com/user-attachments/assets/27898b75-f156-4574-938d-d744edec5b38
